@@ -1,2 +1,2 @@
-# Guia-Fime---IHC-Proyect
+# Guia-Fime-IHC-Proyect
 Repositorio de Proyecto de IHC
